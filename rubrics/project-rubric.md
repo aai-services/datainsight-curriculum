@@ -4,6 +4,14 @@ Status: draft for review.
 
 Every project and capstone is assessed on the same five criteria. A project passes when every criterion is at **Meets** or above. One revision is allowed after feedback.
 
+Projects are reviewed by two peers. Where the two reviews disagree on whether a criterion is met, the program lead decides. Capstones are reviewed by the program lead.
+
+## Guidance for peer reviewers
+
+- Score each criterion and give one specific reason for the score.
+- Name one thing that works well and one concrete change that would improve the project.
+- Review the work, not the person.
+
 | Criterion | Not yet | Meets | Exceeds |
 |---|---|---|---|
 | **Question** | The question is vague or cannot be answered with the data | The question is specific, answerable, and matters to a named audience | The question is sharpened by what the analysis revealed, and alternatives are considered |

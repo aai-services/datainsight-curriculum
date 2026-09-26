@@ -1,6 +1,6 @@
 # Curriculum Map
 
-Status: draft for review. Last updated September 2026. First cohort on this structure: January 2027.
+Status: draft for review. Last updated September 2026 (revised for a single mentor). First cohort on this structure: January 2027.
 
 ## Program structure
 
@@ -36,9 +36,9 @@ Core work is 10 to 12 hours a week. Optional extras (drill platforms, further re
 | Monday | Module opens: concept notebook and worked example | about 4 h across the week |
 | During the week | Practice exercises with automatic checks | about 3 h |
 | During the week | Mini-project or project work | 3 to 4 h |
-| Midweek | Pod check-in with mentor (30 minutes, live or written) | 0.5 h |
-| Friday | Submission and a two-question reflection | 0.5 h |
-| Monthly | Live session or demo day | 1 h |
+| Midweek | Peer group check-in (30 minutes, run by the group) | 0.5 h |
+| Friday | Submission, a two-question reflection, and a three-question weekly check-in | 0.5 h |
+| Weekly (optional) | Live office hour with the program lead, recorded for those who cannot attend | 1 h |
 
 ## How AI is used
 
@@ -59,6 +59,34 @@ AI use changes by stage. Full rules are in the [AI-use policy](policies/ai-use.m
 5. Mini-project or project brief, assessed with the [project rubric](rubrics/project-rubric.md)
 6. Two-question reflection
 
+## How fellows are supported
+
+The first cohort has one mentor, the program lead. The program is designed so that one person can support it well:
+
+- **Automatic checks** give instant feedback on practice exercises.
+- **AI tools as tutors** answer routine questions at any hour, within the [AI-use policy](policies/ai-use.md).
+- **Peer groups** of 6 to 8 fellows meet weekly without the lead. Each group has a peer facilitator, a role that rotates every four weeks.
+- **Peer review** is the main source of feedback on projects. Every project is reviewed by two peers using the [project rubric](rubrics/project-rubric.md).
+- **The program lead** runs a weekly office hour, answers questions in the discussion forum, reviews a sample of projects each round, settles any project where the two peer reviews disagree, and reviews every capstone proposal and final capstone.
+- **The weekly check-in** (three short questions, submitted with each week's work) flags fellows who are stuck, so the lead can reach them early.
+
+Fellows who complete the Core become eligible to mentor future cohorts.
+
+### Cohort size for the first run
+
+With one mentor, the first cohort is capped: up to 80 fellows begin Stage 0, and up to 40 continue into Stage 1. Applicants who are not admitted, and anyone else, can follow the open materials on their own as open learners. Open learners receive no review and no certificate.
+
+### Program lead time
+
+| Activity | Hours per week |
+|---|---|
+| Office hour | 1 |
+| Discussion forum and weekly check-in flags | 1.5 |
+| Sampled project reviews and disputed peer reviews (project weeks) | 1.5 |
+| Capstone proposals (week 19) and final capstones (weeks 25 to 26) | 4 to 7 in those weeks only |
+
+A typical week needs about 4 hours, with heavier weeks during capstone review.
+
 ---
 
 ## Core: Applied Data Analysis with AI (weeks 1 to 26)
@@ -70,7 +98,7 @@ AI use changes by stage. Full rules are in the [AI-use policy](policies/ai-use.m
 | 1 | 0.1 Tools and ways of working | GitHub account; Colab; Git basics (commit, push, pull request); Markdown; keeping keys and personal data out of repositories; the AI-use policy |
 | 2 | 0.2 First data story | One small public dataset about the fellow's own community; one chart and about 300 words; submitted as a pull request and published on the site |
 
-Milestone: fellows who complete Stage 0 are placed in a pod.
+Milestone: fellows who complete Stage 0 are placed in a peer group.
 
 ### Stage 1: Foundations (weeks 3 to 10)
 
@@ -106,7 +134,7 @@ Milestone: Analysis badge.
 
 | Week | Activity |
 |---|---|
-| 19 | Proposal approved by mentor; data access confirmed |
+| 19 | Proposal approved by the program lead; data access confirmed |
 | 20 to 21 | Data preparation and first analysis |
 | 22 | Midpoint peer review |
 | 23 to 24 | Analysis, verification, and revision |
@@ -122,6 +150,8 @@ Milestone: Core Certificate.
 ## Advanced (weeks 27 to 52, optional)
 
 Fellows who complete the Core can continue into one pathway. Both pathways begin with a shared modeling block.
+
+For the first cohort, the Advanced part begins after the Core has run once, so its modules can draw on what the first Core cohort teaches us.
 
 ### Shared block: Modeling foundations (weeks 27 to 32)
 
@@ -179,7 +209,7 @@ Milestone: Advanced Certificate.
 
 - A project passes when it meets the rubric standard on every criterion, allowing one revision.
 - Fellows are expected to submit at least 80 percent of weekly work.
-- Missing two consecutive weeks triggers a check-in from the pod mentor.
+- Missing two consecutive weeks triggers a check-in from the program lead.
 - Fellows who fall too far behind can pause and rejoin the next cohort at the start of their current stage.
 
 ## Tools
