@@ -1,0 +1,1 @@
+Put your raw data file here, exactly as you downloaded it. Never edit it by hand: all cleaning happens in the notebook. Keep each file under 5 MB, and use only public data with no personal information.
