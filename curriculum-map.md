@@ -50,14 +50,21 @@ AI use changes by stage. Full rules are in the [AI-use policy](policies/ai-use.m
 | Core Stage 2 | Pair programmer, with an AI-use log for each project. |
 | Core Stage 3 and Advanced | Full tool, with an AI-use log. Graded on judgment and results. |
 
-## Every module has the same parts
+## How every lesson is built
 
-1. Concept notebook (runs in Google Colab; also downloadable)
-2. Worked example
-3. Practice exercises with automatic checks
-4. AI tutor card: prompts that make an AI tool teach step by step instead of giving answers
-5. Mini-project or project brief, assessed with the [project rubric](rubrics/project-rubric.md)
-6. Two-question reflection
+Every lesson follows the same structure, based on well-established findings about how people learn:
+
+1. **Why this matters**: a real problem or case that motivates the lesson
+2. **Learning objectives**: what you will be able to do by the end
+3. **Warm-up**: two questions on earlier material, answered from memory (retrieval practice)
+4. **Numbered sections**, each a short explanation followed by runnable code
+5. **Predict** prompts: write down what you expect before running a cell, then compare
+6. **Try it** exercises: partly completed code to finish, with a hidden solution (faded worked examples)
+7. **Common mistake** and **Check your understanding** boxes, addressing misconceptions directly
+8. **Worked example**: a complete analysis, including how to check the result
+9. **Reflect**, **Key takeaways**, and **Apply it to your own context**
+
+Each lesson is followed by a practice notebook with automatic checks, an AI tutor card with prompts that make AI tools teach rather than answer, and, where the schedule includes one, a project assessed with the [project rubric](rubrics/project-rubric.md).
 
 ## How fellows are supported
 
