@@ -31,7 +31,7 @@ Accept the **Project 2** assignment and complete `project.ipynb`:
 ## How it is assessed
 
 - **Automatic checks** confirm the project is complete, runs, and reports a difference with an interval.
-- **Two peers** review it with the [project rubric](../../rubrics/project-rubric.md). The program lead reviews a sample and settles disagreements.
+- **Two peers** review it with the [project rubric](../../rubrics/project-rubric.md). The Program Director reviews a sample and settles disagreements.
 - You may revise once after feedback.
 
 ## What good looks like

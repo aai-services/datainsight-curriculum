@@ -36,4 +36,4 @@ Reason:
 - Suggest a change the author can make this week.
 - Review the work, never the person.
 
-If the two reviews of a story disagree on whether something meets the standard, the program lead decides.
+If the two reviews of a story disagree on whether something meets the standard, the Program Director decides.

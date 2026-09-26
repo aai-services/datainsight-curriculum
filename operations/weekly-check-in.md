@@ -1,6 +1,6 @@
 # Weekly check-in
 
-Every Friday, with your week's work, fellows answer three short questions. It takes two minutes and is how the program lead spots fellows who need help early.
+Every Friday, with your week's work, fellows answer three short questions. It takes two minutes and is how the Program Director spots fellows who need help early.
 
 ## Questions
 
@@ -13,7 +13,7 @@ Set these up as a free Tally form.
 
 Question 1 identifies the fellow; questions 2 to 4 are the three check-in questions.
 
-## What the program lead does with the answers
+## What the Program Director does with the answers
 
 Once a week, sort the responses and act on:
 

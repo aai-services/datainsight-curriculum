@@ -78,6 +78,6 @@ def test_no_secrets_in_repository():
             if re.search(pattern, text):
                 found.append(f"{path.relative_to(ROOT)}: looks like a {name}")
     assert not found, (
-        "Remove these from your files, then ask the program lead how to clean "
+        "Remove these from your files, then ask the Program Director how to clean "
         "your repository history:\n" + "\n".join(found)
     )

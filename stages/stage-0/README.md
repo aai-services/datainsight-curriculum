@@ -29,4 +29,4 @@ Fellows who finish Stage 0 are placed in a peer group and continue to Stage 1.
 - **Automatic checks** tell you what is missing each time you push your work.
 - **AI tools as tutors**: see the [AI tutor cards](ai-tutor-cards.md). In Stage 0, AI tools may explain and give hints but may not write your code or text. See the [AI-use policy](../../policies/ai-use.md).
 - **Discussion forum**: ask questions where everyone can learn from the answers.
-- **Weekly office hour** with the program lead, recorded for those who cannot attend.
+- **Weekly office hour** with the Program Director, recorded for those who cannot attend.

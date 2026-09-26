@@ -7,7 +7,7 @@ AI tools are part of how data work is done now, and this program teaches you to 
 ## Principles
 
 1. **You are responsible for everything you submit.** If an AI tool made a mistake and you submitted it, it is your mistake.
-2. **Understand every line.** You must be able to explain any code, number, or claim in your work. The program lead or your peer reviewers may ask you to walk through it.
+2. **Understand every line.** You must be able to explain any code, number, or claim in your work. The Program Director or your peer reviewers may ask you to walk through it.
 3. **Disclose your use.** From Stage 2 onward, every project includes an AI-use log.
 4. **Verify, do not trust.** Check AI output the same way you would check a colleague's work: run it, test it, and compare it with what you expect.
 5. **Protect data and secrets.** Never paste personal data, confidential data, passwords, or access keys into an AI tool.
@@ -50,4 +50,4 @@ The following count as misconduct:
 - Submitting work you cannot explain when asked
 - Presenting another person's work as your own
 
-First concerns are handled as a conversation with the program lead and a chance to redo the work. Repeated misconduct can lead to removal from the program.
+First concerns are handled as a conversation with the Program Director and a chance to redo the work. Repeated misconduct can lead to removal from the program.

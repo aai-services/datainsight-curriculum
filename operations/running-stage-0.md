@@ -1,4 +1,4 @@
-# Running Stage 0 (program lead checklist)
+# Running Stage 0 (Program Director checklist)
 
 Everything below uses free services.
 

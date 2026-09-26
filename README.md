@@ -12,7 +12,7 @@ Open curriculum for the [Data Insight](https://datainsightonline.com) program: f
   - [Stage 1: Foundations](stages/stage-1/README.md)
 - [`datasets/`](datasets/): teaching datasets, with sources and licenses
 - [`templates/`](templates/): starter repositories with automatic checks, used for GitHub Classroom assignments
-- [`operations/`](operations/): how the program is run, for the program lead
+- [`operations/`](operations/): how the program is run, for the Program Director
 - [`scripts/`](scripts/): small tools for running the program
 
 Later stages will be added as they are built.

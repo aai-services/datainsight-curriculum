@@ -1,4 +1,4 @@
-# Running Stage 1 (program lead checklist)
+# Running Stage 1 (Program Director checklist)
 
 ## Before Stage 1 starts
 

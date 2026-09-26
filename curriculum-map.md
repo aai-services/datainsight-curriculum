@@ -38,7 +38,7 @@ Core work is 10 to 12 hours a week. Optional extras (drill platforms, further re
 | During the week | Mini-project or project work | 3 to 4 h |
 | Midweek | Peer group check-in (30 minutes, run by the group) | 0.5 h |
 | Friday | Submission, a two-question reflection, and a three-question weekly check-in | 0.5 h |
-| Weekly (optional) | Live office hour with the program lead, recorded for those who cannot attend | 1 h |
+| Weekly (optional) | Live office hour with the Program Director, recorded for those who cannot attend | 1 h |
 
 ## How AI is used
 
@@ -61,13 +61,13 @@ AI use changes by stage. Full rules are in the [AI-use policy](policies/ai-use.m
 
 ## How fellows are supported
 
-The first cohort has one mentor, the program lead. The program is designed so that one person can support it well:
+The first cohort has one mentor, the Program Director. The program is designed so that one person can support it well:
 
 - **Automatic checks** give instant feedback on practice exercises.
 - **AI tools as tutors** answer routine questions at any hour, within the [AI-use policy](policies/ai-use.md).
 - **Peer groups** of 6 to 8 fellows meet weekly without the lead. Each group has a peer facilitator, a role that rotates every four weeks.
 - **Peer review** is the main source of feedback on projects. Every project is reviewed by two peers using the [project rubric](rubrics/project-rubric.md).
-- **The program lead** runs a weekly office hour, answers questions in the discussion forum, reviews a sample of projects each round, settles any project where the two peer reviews disagree, and reviews every capstone proposal and final capstone.
+- **The Program Director** runs a weekly office hour, answers questions in the discussion forum, reviews a sample of projects each round, settles any project where the two peer reviews disagree, and reviews every capstone proposal and final capstone.
 - **The weekly check-in** (three short questions, submitted with each week's work) flags fellows who are stuck, so the lead can reach them early.
 
 Fellows who complete the Core become eligible to mentor future cohorts.
@@ -76,7 +76,7 @@ Fellows who complete the Core become eligible to mentor future cohorts.
 
 With one mentor, the first cohort is capped: up to 80 fellows begin Stage 0, and up to 40 continue into Stage 1. Applicants who are not admitted, and anyone else, can follow the open materials on their own as open learners. Open learners receive no review and no certificate.
 
-### Program lead time
+### Program Director time
 
 | Activity | Hours per week |
 |---|---|
@@ -134,7 +134,7 @@ Milestone: Analysis badge.
 
 | Week | Activity |
 |---|---|
-| 19 | Proposal approved by the program lead; data access confirmed |
+| 19 | Proposal approved by the Program Director; data access confirmed |
 | 20 to 21 | Data preparation and first analysis |
 | 22 | Midpoint peer review |
 | 23 to 24 | Analysis, verification, and revision |
@@ -209,7 +209,7 @@ Milestone: Advanced Certificate.
 
 - A project passes when it meets the rubric standard on every criterion, allowing one revision.
 - Fellows are expected to submit at least 80 percent of weekly work.
-- Missing two consecutive weeks triggers a check-in from the program lead.
+- Missing two consecutive weeks triggers a check-in from the Program Director.
 - Fellows who fall too far behind can pause and rejoin the next cohort at the start of their current stage.
 
 ## Tools
