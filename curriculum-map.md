@@ -64,6 +64,8 @@ Every lesson follows the same structure, based on well-established findings abou
 8. **Worked example**: a complete analysis, including how to check the result
 9. **Reflect**, **Key takeaways**, and **Apply it to your own context**
 
+Every practice notebook follows a matching structure: a realistic situation that gives the exercises a purpose; exercises that build from guided to independent; two levels of hints per exercise, the first pointing to the idea and the second to the tool; an instant **Check yourself** cell after each exercise; a **spaced review** exercise from an earlier lesson; an optional open-ended **stretch challenge**; and a short reflection.
+
 Each lesson is followed by a practice notebook with automatic checks, an AI tutor card with prompts that make AI tools teach rather than answer, and, where the schedule includes one, a project assessed with the [project rubric](rubrics/project-rubric.md).
 
 ## How fellows are supported
